@@ -8,3 +8,24 @@ body,
 html {
   height: 100%;
 }
+
+.info.legend {
+  background: white;
+  padding: 6px 8px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+.info.legend {
+  width: auto;
+  height: auto;
+  opacity: 1;
+  margin-right: 5px;
+}
+
+.info.legend span {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
